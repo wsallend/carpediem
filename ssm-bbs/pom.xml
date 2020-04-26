@@ -75,7 +75,7 @@
     <dependency>
       <groupId>org.springframework</groupId>
       <artifactId>spring-webmvc</artifactId>
-      <version>5.2.1.RELEASE</version>
+      <version>5.2.4.RELEASE</version>
     </dependency>
 
     <!--配置Spring对数据库支持的jar包-->
